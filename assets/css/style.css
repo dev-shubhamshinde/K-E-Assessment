@@ -1,0 +1,26 @@
+.heading {
+  color: #9c5757;
+  font-weight: bold;
+}
+
+.heading-big {
+  color: #9c5757;
+  font-weight: bold;
+}
+
+.package-container {
+    background-color: #6a5a3e;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.package-card {
+    background-color: #7d6e50;
+    color: #d1b881; /* This sets the color for text and icons */
+    border: 2px solid #706246; /* Default dark border */
+    border-radius: 12px;
+}
+
+.package-card-active {
+    border-color: #d1b881; /* Bright gold border overrides the default */
+}
